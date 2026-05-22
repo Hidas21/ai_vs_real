@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0f172a">
+  <title>AI vagy valódi? — Képfelismerő kvíz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="app">
+
+    <section id="screen-start" class="screen">
+      <h1>AI vagy valódi?</h1>
+      <p class="lead">
+        Ismerd fel, melyik kép készült AI-jal, és melyik egy valódi fotó.
+        100 kép, te döntesz mindegyiknél. Ha eltéveszted, megmutatjuk, mire kellett volna figyelni.
+      </p>
+      <div class="actions">
+        <button id="btn-start" class="primary">Új játék</button>
+        <button id="btn-continue" class="secondary" hidden>Folytatás (<span id="continue-progress"></span>)</button>
+      </div>
+      <p id="start-status" class="status"></p>
+    </section>
+
+    <section id="screen-quiz" class="screen" hidden>
+      <header class="topbar">
+        <div class="progress"><span id="quiz-index">1</span> / <span id="quiz-total">100</span></div>
+        <div class="score">Pontszám: <span id="quiz-score">0</span></div>
+      </header>
+      <div class="image-stage">
+        <img id="quiz-image" alt="">
+      </div>
+      <div class="choice-row">
+        <button id="btn-ai" class="choice choice-ai">AI</button>
+        <button id="btn-real" class="choice choice-real">Valódi</button>
+      </div>
+    </section>
+
+    <section id="screen-feedback" class="screen" hidden>
+      <header class="topbar">
+        <div class="progress"><span id="fb-index">1</span> / <span id="fb-total">100</span></div>
+        <div class="score">Pontszám: <span id="fb-score">0</span></div>
+      </header>
+      <div id="fb-verdict" class="verdict"></div>
+      <div class="image-stage">
+        <img id="fb-image" alt="">
+      </div>
+      <div id="fb-explanation" class="explanation" hidden></div>
+      <p id="fb-meta" class="meta"></p>
+      <div class="actions">
+        <button id="btn-next" class="primary">Tovább</button>
+      </div>
+    </section>
+
+    <section id="screen-end" class="screen" hidden>
+      <h1>Vége!</h1>
+      <p class="lead">Itt a végeredmény:</p>
+      <div class="results">
+        <div class="result-card">
+          <div class="result-value"><span id="end-score">0</span> / <span id="end-total">100</span></div>
+          <div class="result-label">Összpontszám</div>
+        </div>
+        <div class="result-card">
+          <div class="result-value"><span id="end-ai-correct">0</span> / <span id="end-ai-total">0</span></div>
+          <div class="result-label">AI képeknél eltaláltad</div>
+        </div>
+        <div class="result-card">
+          <div class="result-value"><span id="end-real-correct">0</span> / <span id="end-real-total">0</span></div>
+          <div class="result-label">Valódi képeknél eltaláltad</div>
+        </div>
+      </div>
+
+      <section id="end-lessons" class="lessons" hidden>
+        <h2>AI képek, amiket eltévesztettél</h2>
+        <p class="lead">Fusd át ezeket — legközelebb fel fogod ismerni!</p>
+        <div id="end-lessons-list" class="lessons-list"></div>
+      </section>
+
+      <div class="actions">
+        <button id="btn-restart" class="primary">Új játék</button>
+      </div>
+    </section>
+
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
