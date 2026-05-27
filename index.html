@@ -3,26 +3,57 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#0f172a">
+  <meta name="theme-color" content="#12103a">
   <title>AI vagy valódi? — Képfelismerő kvíz</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+  <div class="brand-bar">
+    <div>
+      <div class="brand-title">Magyar Mesterséges Intelligencia Tanács</div>
+      <div class="brand-subtitle">AI Képfelismerő Kvíz</div>
+    </div>
+  </div>
+
   <main id="app">
 
+    <!-- START -->
     <section id="screen-start" class="screen">
-      <h1>AI vagy valódi?</h1>
-      <p class="lead">
-        Ismerd fel, melyik kép készült AI-jal, és melyik egy valódi fotó.
-        100 kép, te döntesz mindegyiknél. Ha eltéveszted, megmutatjuk, mire kellett volna figyelni.
-      </p>
+      <div>
+        <p class="section-label">Játék</p>
+        <h1>AI vagy valódi?</h1>
+        <p class="lead">
+          Ismerd fel, melyik kép készült mesterséges intelligenciával, és melyik egy valódi fotó.
+          100 kép — te döntesz mindegyiknél. Ha eltéveszted, megmutatjuk, mire kellett volna figyelni.
+        </p>
+      </div>
+
       <div class="actions">
         <button id="btn-start" class="primary">Új játék</button>
         <button id="btn-continue" class="secondary" hidden>Folytatás (<span id="continue-progress"></span>)</button>
       </div>
+
+      <div class="lb-section">
+        <p class="section-label">Toplista</p>
+        <table class="lb-table" id="lb-table-start">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Név</th>
+              <th>Pontszám</th>
+            </tr>
+          </thead>
+          <tbody id="lb-body-start"></tbody>
+        </table>
+      </div>
+
       <p id="start-status" class="status"></p>
     </section>
 
+    <!-- QUIZ -->
     <section id="screen-quiz" class="screen" hidden>
       <header class="topbar">
         <div class="progress"><span id="quiz-index">1</span> / <span id="quiz-total">100</span></div>
@@ -32,11 +63,12 @@
         <img id="quiz-image" alt="">
       </div>
       <div class="choice-row">
-        <button id="btn-ai" class="choice choice-ai">AI</button>
-        <button id="btn-real" class="choice choice-real">Valódi</button>
+        <button id="btn-ai" class="choice choice-ai">🤖 AI</button>
+        <button id="btn-real" class="choice choice-real">📷 Valódi</button>
       </div>
     </section>
 
+    <!-- FEEDBACK -->
     <section id="screen-feedback" class="screen" hidden>
       <header class="topbar">
         <div class="progress"><span id="fb-index">1</span> / <span id="fb-total">100</span></div>
@@ -49,13 +81,18 @@
       <div id="fb-explanation" class="explanation" hidden></div>
       <p id="fb-meta" class="meta"></p>
       <div class="actions">
-        <button id="btn-next" class="primary">Tovább</button>
+        <button id="btn-next" class="primary">Tovább →</button>
       </div>
     </section>
 
+    <!-- END -->
     <section id="screen-end" class="screen" hidden>
-      <h1>Vége!</h1>
-      <p class="lead">Itt a végeredmény:</p>
+      <div>
+        <p class="section-label">Eredmény</p>
+        <h1>Vége!</h1>
+        <p class="lead">Itt a végeredményed — mentsd el a neved a toplistára!</p>
+      </div>
+
       <div class="results">
         <div class="result-card">
           <div class="result-value"><span id="end-score">0</span> / <span id="end-total">100</span></div>
@@ -63,26 +100,51 @@
         </div>
         <div class="result-card">
           <div class="result-value"><span id="end-ai-correct">0</span> / <span id="end-ai-total">0</span></div>
-          <div class="result-label">AI képeknél eltaláltad</div>
+          <div class="result-label">AI képek eltalálva</div>
         </div>
         <div class="result-card">
           <div class="result-value"><span id="end-real-correct">0</span> / <span id="end-real-total">0</span></div>
-          <div class="result-label">Valódi képeknél eltaláltad</div>
+          <div class="result-label">Valódi képek eltalálva</div>
         </div>
       </div>
 
+      <div class="lb-section">
+        <p class="section-label">Toplista</p>
+        <table class="lb-table">
+          <thead>
+            <tr><th>#</th><th>Név</th><th>Pontszám</th></tr>
+          </thead>
+          <tbody id="lb-body-end"></tbody>
+        </table>
+      </div>
+
       <section id="end-lessons" class="lessons" hidden>
+        <p class="section-label">Tanulságok</p>
         <h2>AI képek, amiket eltévesztettél</h2>
         <p class="lead">Fusd át ezeket — legközelebb fel fogod ismerni!</p>
         <div id="end-lessons-list" class="lessons-list"></div>
       </section>
 
       <div class="actions">
-        <button id="btn-restart" class="primary">Új játék</button>
+        <button id="btn-restart" class="secondary">Új játék</button>
       </div>
     </section>
 
   </main>
+
+  <!-- NAME MODAL -->
+  <div id="modal-name" class="modal-overlay" hidden>
+    <div class="modal">
+      <h2>Jól ment! 🎉</h2>
+      <p>Add meg a neved, hogy felkerülj a toplistára.</p>
+      <input id="input-name" type="text" placeholder="Neved..." maxlength="30" autocomplete="off">
+      <div class="modal-actions">
+        <button id="btn-save-name" class="primary">Mentés a toplistára</button>
+        <button id="btn-skip-name" class="secondary">Kihagyom</button>
+      </div>
+    </div>
+  </div>
+
   <script src="app.js"></script>
 </body>
 </html>

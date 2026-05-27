@@ -4,7 +4,7 @@
     "file": "images/img_3d6253e6eb.jpg",
     "label": "ai",
     "generator": "midjourney",
-    "explanation": "A feketere cserely WC-ulokelap szine teljesen logikatlantul elut a feher WC-tol, es a tukrelodesek iranya nem egyezik."
+    "explanation": "A fekete WC-ülőkelap logikátlanul elüt a fehér WC-től, és a tükröződések iránya sem egyezik a fényforrással."
   },
   {
     "id": 67,
@@ -17,35 +17,35 @@
     "file": "images/img_ebb6d2bc7e.jpg",
     "label": "ai",
     "generator": "dalle3",
-    "explanation": "A hatter tajkep festoi szepsegu, drasai felhozettel es tokeletesen elhelyezett fakkal, ami valos foto eseteben ritka."
+    "explanation": "A háttér tájkép festőien szép, drámai felhőzettel és tökéletesen elhelyezett fákkal — valódi fotón ez ritka."
   },
   {
     "id": 32,
     "file": "images/img_93969ecccb.jpg",
     "label": "ai",
     "generator": "midjourney",
-    "explanation": "A sarI buszon lathato feliratok elmosodottak es olvashatatlanok, ami tipikus AI-artifakt."
+    "explanation": "A sárga buszon látható feliratok elmosódottak és olvashatatlanok, ami tipikus AI-artifakt szövegek közelében."
   },
   {
     "id": 0,
     "file": "images/img_c4b6035282.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "A parki padok es a fak elrendezese tul szimmetrikus es festoi; a fak korgye rendellenes, elmosodott texturaval rendelkezik."
+    "explanation": "A parki padok és fák elrendezése túl szimmetrikus, a fa kérge rendellenes, elmosódott textúrával rendelkezik."
   },
   {
     "id": 14,
     "file": "images/img_70e3a3506f.jpg",
     "label": "ai",
     "generator": "sd3",
-    "explanation": "A rendorsegi motorokon lathato \"POLICE\" felirat minden motoron torz es mas betuket mutat, az AI nem tudja helyesen renderelni a szovegeket."
+    "explanation": "A rendőrségi motorokon látható POLICE felirat minden motoron torz és más betűket mutat — az AI nem tudja helyesen renderelni a szövegeket."
   },
   {
     "id": 51,
     "file": "images/img_5412a25f05.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "Az idosebb par labai es cipoi reszben atfednek es deformalt megjelenest mutatnak, a testlabak aranytalan meretekkel rendelkeznek."
+    "explanation": "Az idősebb pár lábai és cipői részben átfednek és deformált megjelenést mutatnak, a testarányok sem következetesek."
   },
   {
     "id": 71,
@@ -70,28 +70,28 @@
     "file": "images/img_696bd547d9.jpg",
     "label": "ai",
     "generator": "midjourney",
-    "explanation": "A kozlekedesi lampan megjeleno piros feny kore egy valoszeru glori kerul, es az epuletek ablakainak mintazata nem kovetkezetes."
+    "explanation": "A közlekedési lámpán megjelenő piros fény körül valószerűtlen glória keletkezik, és az épületek ablakainak mintázata nem következetes."
   },
   {
     "id": 40,
     "file": "images/img_5968a20b15.jpg",
     "label": "ai",
     "generator": "sd3",
-    "explanation": "A ket fiu kalapja teljesen kulonbozo szinu (feher es sarga), de szinte azonos alakzattal, ami a kep tukrozo szimmetriajara utal."
+    "explanation": "A két fiú kalapja teljesen különböző színű (fehér és sárga), de szinte azonos alakzattal — ez a kép tükröző szimmetriájára utal."
   },
   {
     "id": 26,
     "file": "images/img_64129e251f.jpg",
     "label": "ai",
     "generator": "dalle3",
-    "explanation": "A nappali tul tokeletes es szimmetrikus, a butorok elrendezese es a feny iranya fizikailag lehetetlen egy valos ter eseteben."
+    "explanation": "A nappali túl tökéletes és szimmetrikus, a bútorok elrendezése és a fény iránya fizikailag lehetetlen egy valódi térben."
   },
   {
     "id": 42,
     "file": "images/img_12f30ed8c1.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "A bicikli vazana nincs nyereg rajta, csak az uloresz ragaszteka es a hatterkepen lathato diszitett oszlopok ismethodnek furcsa modon."
+    "explanation": "A bicikli vázán nincs nyereg, csak az ülőrész ragasztéka, és a háttérben látható díszített oszlopok furcsán ismétlődnek."
   },
   {
     "id": 92,
@@ -116,7 +116,7 @@
     "file": "images/img_64a6aa33c2.jpg",
     "label": "ai",
     "generator": "sd3",
-    "explanation": "Az epuleten lathato feliratok - beleertve a kapu feletti szoveget - ertelmetlen karakterek, ami AI kepekre jellemzo."
+    "explanation": "Az épületen látható feliratok — beleértve a kapu feletti szöveget — értelmetlen karakterek, ami AI-képekre jellemző."
   },
   {
     "id": 74,
@@ -129,7 +129,7 @@
     "file": "images/img_aeb5191874.jpg",
     "label": "ai",
     "generator": "midjourney",
-    "explanation": "A szoba tulzottan rendes es szimmetrikus, minden noveny tokeletes elrendezesben all, valodi szobafotokon mindig latszik rendetlenseg."
+    "explanation": "A szoba túlzottan rendes és szimmetrikus, minden növény tökéletes elrendezésben áll — valódi szobafotókon mindig látszik rendetlenség."
   },
   {
     "id": 31,
@@ -142,7 +142,7 @@
     "file": "images/img_e7fb2f8a99.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "A ferfi kezeben lathato telefon furcsan pozicionalt, es az arnyekok ianya nem felel meg a kepen lathato napfeny iranyanak."
+    "explanation": "A férfi kezében látható telefon furcsán pozicionált, és az árnyékok iránya nem felel meg a képen látható napfény irányának."
   },
   {
     "id": 86,
@@ -215,21 +215,21 @@
     "file": "images/img_14ea3811bf.jpg",
     "label": "ai",
     "generator": "midjourney",
-    "explanation": "A tuzvedelmi csap formaval rendkivul szimmetrikus es kozepre helyezett, a hatterkep elmosodott tulsagosan, ami AI-ra jellemzo."
+    "explanation": "A tűzcsap formája rendkívül szimmetrikus és középre helyezett, a háttérkép pedig túlságosan elmosódott — ez AI-ra jellemző."
   },
   {
     "id": 8,
     "file": "images/img_84cab7b3fe.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "A plussallatok kozepe elhelyezkedese fizikailag lethetetlennek tunik, a kozepon levo kis baba-pluss alakja deformalt es nem azonosithato allat."
+    "explanation": "A plüssállatok között elhelyezkedő kis figura alakja deformált és nem azonosítható állatként, fizikailag is lehetetlen a pozíciója."
   },
   {
     "id": 54,
     "file": "images/img_9414c7852c.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "A forgalom iranya es az utjelzo tablak egy resze fizikailag lehetetlen elrendezest mutat, a piros feny nyomvonalak kinyilasa szimmetrikus."
+    "explanation": "A forgalom iránya és az útjelző táblák egy része fizikailag lehetetlen elrendezést mutat, a piros fény nyomvonalak szimmetrikusak."
   },
   {
     "id": 28,
@@ -254,14 +254,14 @@
     "file": "images/img_f929d8aaf5.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "A motokrossz motorokon lathato szamok es betuk a matricakon olvashatatlanok es ertelmetlenek, ami tipikus AI-hibara utal."
+    "explanation": "A motokrossz motorokon látható számok és betűk a matricákon olvashatatlanok és értelmetlenek — tipikus AI-hiba."
   },
   {
     "id": 29,
     "file": "images/img_4c7e8f6fd7.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "A pizza uzlet felirata a kepen tobbszor ismethodlik erthetetlen modon; a motoros helmetek simaak es arcarc nelkuliek."
+    "explanation": "A pizza üzlet felirata a képen többször ismétlődik érthetetlen módon, a motoros sisakok simaak és arcvonal nélküliek."
   },
   {
     "id": 66,
@@ -280,28 +280,28 @@
     "file": "images/img_272439ebf6.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "A visszapillanto tukorben lathato anyanemzedek felso teste es a motor kattintasa fizikailag nem illik ossze, a kerek elmosodottan latszik."
+    "explanation": "A visszapillantó tükörben látható motoros felső teste és a motor fizikailag nem illik össze, a kerekek elmosódottan látszanak."
   },
   {
     "id": 43,
     "file": "images/img_8b57fb1d1a.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "A konyveik gerince a polcokon olvashatatlan es ertelmes cimeket nem tartalmaz; a szoba padloja tul feher es homogen."
+    "explanation": "A könyvek gerince a polcokon olvashatatlan és értelmetlen — az AI nem tud olvasható könyvcímeket generálni."
   },
   {
     "id": 46,
     "file": "images/img_e648d2c090.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "A kep stilusa reszben rajzfilm-szeru, a feliratok ertelmetlen karaktersorozatokbol allnak, ami egyertelmu AI-generalas."
+    "explanation": "A kép stílusa részben rajzfilm-szerű, a feliratok értelmetlen karaktersorozatokból állnak — egyértelmű AI-generálás."
   },
   {
     "id": 41,
     "file": "images/img_f814fcadf2.jpg",
     "label": "ai",
     "generator": "sd3",
-    "explanation": "A monitorok kepernoi teljesen feketék vagy uresek, a jobb oldalon levo kameran levo felirat olvashatatlan, az arcok kisse elmosodottak."
+    "explanation": "A monitorok képernyői teljesen feketék, a kamerán a felirat olvashatatlan, az arcok kissé elmosódottak és mesterségesek."
   },
   {
     "id": 95,
@@ -326,21 +326,21 @@
     "file": "images/img_ea2b4d70db.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "A kep stilusa reszben rajzfilm-szeru, az utjelzo tablak ertelmetlen karaktereket tartalmaznak, es a varos rajzolt texturaval rendelkezik."
+    "explanation": "A kép stílusa részben rajzfilm-szerű, az útjelző táblák értelmetlen karaktereket tartalmaznak, a város rajzolt textúrával rendelkezik."
   },
   {
     "id": 61,
     "file": "images/img_1daad43a87.jpg",
     "label": "ai",
     "generator": "sd3",
-    "explanation": "A no kezenek ujjai a tal korul furcsa modon elrendezodottek, es a fakulcsok hasznalata az apronnal nem logikus pozicioban van."
+    "explanation": "A nő kezének ujjai a tál körül furcsán elrendeződtek, a konyhai eszközök pozíciója és az összefüggések nem logikusak."
   },
   {
     "id": 17,
     "file": "images/img_3a167a7895.jpg",
     "label": "ai",
     "generator": "sd3",
-    "explanation": "A ferfi latex keztyui egeszen mas anyagbol vannak mint a keszitett kezkesztyuk; a kotes tipszerus, de a konyhai allo mestersegesen nez ki."
+    "explanation": "A férfi latex kesztyűje nem illik a konyhai munkához, és a kötény felirata elmosódott, olvashatatlan karaktereket mutat."
   },
   {
     "id": 96,
@@ -353,14 +353,14 @@
     "file": "images/img_3750b79e09.jpg",
     "label": "ai",
     "generator": "dalle3",
-    "explanation": "A ferfi borenek texturaja es az arc aranyai tul tokeletesek, a haj es szakall vastagabb es egyenletesebb mint egy valos szemelyne."
+    "explanation": "A férfi bőrének textúrája és az arc arányai túl tökéletesek, a haj és szakáll egyenletesebb mint egy valódi személynél."
   },
   {
     "id": 53,
     "file": "images/img_ded62d363f.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "A tuzvedelmi csap teteje szokatlan kupola formaju, ami nem felel meg valosi tuzvedelmi csapok standard kialakitasanak."
+    "explanation": "A tűzcsap teteje szokatlan kupola formájú, ami nem felel meg a valódi tűzcsapok szabványos kialakításának."
   },
   {
     "id": 90,
@@ -373,28 +373,28 @@
     "file": "images/img_e88e4c109b.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "A kobe gravalt feliraton teljesen ertelmetlen szoveg lathato (pl. \"ATOHSSTIA SSHISNAT\"), ami az AI szoveg-renderelesi hibajara utal."
+    "explanation": "A kőbe gravált feliraton teljesen értelmetlen szöveg látható, ami az AI szöveg-renderelési hibájára utal."
   },
   {
     "id": 60,
     "file": "images/img_92d4a0f486.jpg",
     "label": "ai",
     "generator": "midjourney",
-    "explanation": "A porcellancsesze minta tul szimmetrikus, a kekszen lathato minta is tokeletes es szimmetrikus, valos sutemenyen ez ritka."
+    "explanation": "A porceláncsészén és a kekszen látható minták túl tökéletesek és szimmetrikusak — valódi süteményen és edényen ez ritka."
   },
   {
     "id": 37,
     "file": "images/img_0e9685a1cc.jpg",
     "label": "ai",
     "generator": "dalle3",
-    "explanation": "A Colosseum kore modern epuleteket es taxis autokat generalt az AI, ami tortenelmileg es geografiailag lehetetlen."
+    "explanation": "A Colosseum köré modern épületeket és taxikat generált az AI, ami történelmileg és földrajzilag lehetetlen."
   },
   {
     "id": 3,
     "file": "images/img_a2b01800da.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "A motorkerekpar motorhazaban lathato alkatreszek logikatlansaguk miatt nem illeszkednek ossze, a fust elrendezese tulmestersegesen szimmetrikus."
+    "explanation": "A motorkerékpár alkatrészei logikátlanul illeszkednek egymáshoz, a füst elrendezése mesterségesen szimmetrikus."
   },
   {
     "id": 99,
@@ -407,21 +407,21 @@
     "file": "images/img_93a6d23e47.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "Az allomasepulet es a sinen lathato felirat elmosodott es olvashatatlan, a felso huzalok rendszere nem konzisztens a valodisaggal."
+    "explanation": "Az állomásépület és a sínen látható felirat elmosódott és olvashatatlan, a felső huzalrendszer nem konzisztens a valósággal."
   },
   {
     "id": 23,
     "file": "images/img_a1154701fd.jpg",
     "label": "ai",
     "generator": "midjourney",
-    "explanation": "A juhok szore tul egyszeru es sima texturajat mutat, az egyik juh labai furcsa szogben allnak, a sziklafalon levo textura nem kovetkezetes."
+    "explanation": "A juhok szőrének textúrája túl egyszerű és sima, az egyik juh lábai furcsa szögben állnak, a sziklafal textúrája sem következetes."
   },
   {
     "id": 34,
     "file": "images/img_401f4ea00e.jpg",
     "label": "ai",
     "generator": "sd3",
-    "explanation": "A parkolasi vonalak es a rendszamok teljesen olvashatatlanok, az autok aranyai es a visszapillantok nem szabvanyosak."
+    "explanation": "A parkolóvonalak és rendszámok teljesen olvashatatlanok, az autók arányai és a visszapillantók nem szabványosak."
   },
   {
     "id": 64,
@@ -434,14 +434,14 @@
     "file": "images/img_c4878bae7f.jpg",
     "label": "ai",
     "generator": "sd3",
-    "explanation": "A ferfi bal kezenek ujjai furcsa szogben hajlanak a telefon korul, es a jobb oldali kezben lathato masodik keszulek lebeg a levegobe."
+    "explanation": "A férfi bal kezének ujjai furcsán hajlanak a telefon körül, és a jobb kezében tartott második készülék a levegőben lebeg."
   },
   {
     "id": 16,
     "file": "images/img_8d33c1f457.jpg",
     "label": "ai",
     "generator": "dalle3",
-    "explanation": "A ket vonat tul szimmetrikus es azonos a szinezeteben; a sinpalya es az allomas geometriaja nem kovetkezetes valosagos felvetellel."
+    "explanation": "A két vonat túl szimmetrikus és azonos a színezetében, a sínpálya és az állomás geometriája sem következetes valódi felvétellel."
   },
   {
     "id": 88,
@@ -460,7 +460,7 @@
     "file": "images/img_962f563014.jpg",
     "label": "ai",
     "generator": "dalle3",
-    "explanation": "A kep egyertelmu rajzfilm-stilusu, a busz es a kornyezet nem foto, hanem AI-altal generalt illusztracio."
+    "explanation": "A kép egyértelmű rajzfilm-stílusú — a busz és a környezet nem fotó, hanem AI által generált illusztráció."
   },
   {
     "id": 91,
@@ -473,7 +473,7 @@
     "file": "images/img_063c14efde.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "Az utcanevtablak feliratai teljesen olvashatatlan es ertelmes szoveg helyett karakterkavalkadot tartalmaznak."
+    "explanation": "Az utcanévtáblákon teljesen értelmetlen és olvashatatlan szöveg látható, ami az AI tipikus szöveg-renderelési hibája."
   },
   {
     "id": 48,
@@ -486,14 +486,14 @@
     "file": "images/img_220ab83781.jpg",
     "label": "ai",
     "generator": "sd3",
-    "explanation": "A motor matrica-feliratai olvashatatlanok, a hatter utfelszine es keritesei elmosodottan egybemosodnak."
+    "explanation": "A motor matricáinak feliratai olvashatatlanok, a háttér útfelszíne és kerítései elmosódottan egybemosódnak."
   },
   {
     "id": 13,
     "file": "images/img_878465b260.jpg",
     "label": "ai",
     "generator": "midjourney",
-    "explanation": "A kep vizualis stilus szempontjabol akvarel- vagy olajfestmeny-jellegu, nem foto, az emberek es jarmuvek rajzolt megjelenesuek."
+    "explanation": "A kép akvarell- vagy olajfestmény-jellegű, nem fotó — az emberek és járművek rajzolt megjelenésűek."
   },
   {
     "id": 7,
@@ -506,14 +506,14 @@
     "file": "images/img_3c5b0d1652.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "A maci a motoron furcsankeves valoszinuseg szerint fene, a motor kerekei es a szeles kabat rendkivuli modon osszeillenek."
+    "explanation": "A plüssmedve a motoron fizikailag nem tartható meg, és a motor kerekei és a kabát részletei következetlenek."
   },
   {
     "id": 50,
     "file": "images/img_6bd7b0f907.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "A kis zsirafborc a fenykep elotterben torpenye egy normalis meretuhz kepest, a csoport aranyai es az allatok pozicioi nem kovetkezetesek."
+    "explanation": "A kis zsiráfborjú aránytalanul kicsi a felnőtt zsiráfhoz képest, a csoport elhelyezése és az állatok pozíciói nem következetesek."
   },
   {
     "id": 84,
@@ -550,7 +550,7 @@
     "file": "images/img_4f9a168467.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "Az asztalon ket kulon billentyuzet lathato egymason fekvesen, es a monitoron lathato felirat nem konzisztens az Apple logoval egyutt."
+    "explanation": "Az asztalon két különböző billentyűzet egymáson fekszik logikátlanul, az Apple iMac mellé nem illik az összes többi eszköz stílusa."
   },
   {
     "id": 65,
@@ -563,7 +563,7 @@
     "file": "images/img_3442eb1de3.jpg",
     "label": "ai",
     "generator": "dalle3",
-    "explanation": "Az arcaik tul szimmetrikusak es sima boruk van mesterseges megjelenest kolcsonozve nekik; a hatter rakospolcok tul egyenletesek."
+    "explanation": "A két szakács arca túl szimmetrikus és sima bőrrel rendelkezik, a háttér polcok túl egyenletesek és valószerűtlenek."
   },
   {
     "id": 77,
@@ -588,14 +588,14 @@
     "file": "images/img_716e56dd1f.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "A pad mogott ulo emberek fejei tul szimmetriakusak, es a kalapon es hajukon lathato textura mutatja a mesterseges eloallitast."
+    "explanation": "A padon ülők fejei és kalapjai túl szimmetrikusak, és a hajukon látható textúra mesterséges előállítást mutat."
   },
   {
     "id": 12,
     "file": "images/img_14db25e42b.jpg",
     "label": "ai",
     "generator": "dalle3",
-    "explanation": "A konyha tul tokeletesen rendes es szimmetrikus, a polcokon levo edenyeken lathato mintak nem olvashatoak, es a padlo sakkminatazata torzul."
+    "explanation": "A konyha túl tökéletesen rendes és szimmetrikus, a polcokon lévő edények mintái olvashatatlanok, a padló kockamintája torzul a sarkoknál."
   },
   {
     "id": 97,
@@ -620,14 +620,14 @@
     "file": "images/img_5c2192cfd2.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "A felvonulasi kocsi tatjan lathato felirat olvashatatlan karakterekbol all, es a tomeg arckifejezese egyformabb mint valos felvetelen."
+    "explanation": "A felvonulási kocsi tábláján olvashatatlan karakterekből álló felirat látható, a tömeg arckifejezése egyformább mint valódi felvételen."
   },
   {
     "id": 18,
     "file": "images/img_94d328683c.jpg",
     "label": "ai",
     "generator": "sdxl",
-    "explanation": "A hid szerkezete fizikailag nem mukodokepesen van felehitve - a tartok szimmetrikusak de a megtamasztas nem kovetkezetes."
+    "explanation": "A híd szerkezete fizikailag nem működőképes — a tartók szimmetrikusak, de a megtámasztás nem következetes."
   },
   {
     "id": 89,
@@ -640,13 +640,13 @@
     "file": "images/img_b57367150f.jpg",
     "label": "ai",
     "generator": "midjourney",
-    "explanation": "A fogkefe tartoba helyezett fogkefek szama es elrendezese furcsa; a viragszirmok tul tokeletesek es szimmetrikusak."
+    "explanation": "A fogkefe-tartóban lévő fogkefék száma és elrendezése furcsa, a virágszirmok túl tökéletesek és szimmetrikusak."
   },
   {
     "id": 4,
     "file": "images/img_401abf6558.jpg",
     "label": "ai",
     "generator": "sd2",
-    "explanation": "A kep jobb felso sarkaban lathato \"2r\" felirat ertelmetlenul elhelyezett, es a WC-tartaly csovetezese fizikailag nem logikus."
+    "explanation": "A jobb felső sarokban látható \"2r\" felirat értelmetlenül elhelyezett, és a WC-tartály csővezetéke fizikailag nem logikus."
   }
 ]
